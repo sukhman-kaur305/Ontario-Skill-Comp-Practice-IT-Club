@@ -1,0 +1,25 @@
+Project Objectives
+
+- Deploy a Windows Server 2022 domain controller (`server1`).  
+- Configure a multi‑role server supporting AD DS, DNS, DHCP, WDS, WINS, DFS, NPS, VPN, CA, WSUS, and iSCSI.  
+- Install a second server (`server2`) from WDS and join it to the domain.  
+- Build advanced enterprise DHCP, DNS, GPO, and OU structures.  
+- Implement secure and scalable enterprise networking services.  
+- Configure storage, replication, trust relationships, and multi‑site AD topology.  
+- Generate administrative reports using PowerShell.  
+
+Technologies Used
+
+- Windows Server 2022  
+- Windows 11  
+- Active Directory Domain Services  
+- DNS, DHCP, WINS  
+- WDS / PXE Deployment  
+- VPN / NPS (RADIUS)  
+- DFS Namespace + DFS Replication  
+- Certificate Services (AD CS)  
+- iSCSI Target & Data Deduplication  
+- WSUS  
+- Hyper‑V Virtualization  
+- PowerShell Administration  
+
